@@ -1,0 +1,6 @@
+- Mostly used the [Racket Guide ](https://docs.racket-lang.org/reference).
+- [This](https://stackoverflow.com/questions/30041672/if-else-clause-or-cond-in-racket) to help clarify cond vs if.
+- [This](https://stackoverflow.com/questions/12719164/scheme-add-element-to-the-end-of-list) to help with cons and creating lists.
+- Also used [this](https://beautifulracket.com/explainer/lists.html) for more help with lists.
+- Also [this](https://www.reddit.com/r/Racket/comments/9mle81/list_and_cons_in_racket/) for cons and nested lists.
+- Lastly [this](https://stackoverflow.com/questions/43365160/racket-get-a-value-from-a-list-using-an-index) for help with list indexes.
