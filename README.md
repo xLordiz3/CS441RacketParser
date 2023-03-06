@@ -17,3 +17,7 @@ numsign -> + | - | epsilon
 nonzero_digit -> 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9
 digit -> 0 | nonzero_digit 
 ```
+Source code files must be in the same directory as the .rkt file and is called from the REPL with
+```
+(parse "filename")
+```
